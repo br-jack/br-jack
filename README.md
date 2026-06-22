@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi I'm Jack
+Find my CV [here](./Jack_Brewer_CV.pdf)!
 <!--
 **br-jack/br-jack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
